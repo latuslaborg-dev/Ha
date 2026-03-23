@@ -1,0 +1,13 @@
+{
+  "name": "member-tracker-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "sqlite3": "^5.1.7",
+    "sqlite": "^5.1.1"
+  }
+}
